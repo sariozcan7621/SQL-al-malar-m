@@ -1,0 +1,2 @@
+insert into h_ýd(h_adi,h_soyadý,unvan,toplam_ders_saati) values(14,' özcan','elitaþ',1,16);
+insert into tc(adi,soyadý,bolkod,sýnýf,h_ID,d_Tarih,memleket, cinsiyet) values('özcan','elitaþ',1,3,10/11/2001,76,'erkek');
